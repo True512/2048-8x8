@@ -294,8 +294,8 @@ hr {
     clear: both; }
 
 .grid-cell {
-  width: 106.25px;
-  height: 106.25px;
+  width: 53.25px;
+  height: 53.25px;
   margin-right: 15px;
   float: left;
   border-radius: 3px;
@@ -308,8 +308,8 @@ hr {
   z-index: 2; }
 
 .tile, .tile .tile-inner {
-  width: 107px;
-  height: 107px;
+  width: 53.5px;
+  height: 53.5px;
   line-height: 116.25px; }
 .tile.tile-position-1-1 {
   -webkit-transform: translate(0px, 0px);
