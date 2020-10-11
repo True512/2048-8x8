@@ -670,7 +670,7 @@ font-size: 10px; }
 font-size: 7px; } }
 
 .tile.tile-4194304 .tile-inner {
-color: #f9f6f2
+color: #f9f6f2;
 background: #abcdef;
 box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.9), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
 font-size: 10px; }
@@ -736,7 +736,7 @@ font-size: 7px; } }
 color: #f9f6f2;
 background: #f0a;
 box-shadow: 0 0 30px 10px rgb(243, 215, 116), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-font-size: 7px; }
+font-size: 9px; }
 @media screen and (max-width: 480px) {
 .tile.tile-536870912 .tile-inner {
 font-size: 9px; } }
